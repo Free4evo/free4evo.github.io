@@ -1,0 +1,27 @@
+.olegPhoto{
+    border-radius: 50%;
+    border: 0.3em solid whitesmoke;
+    float: left;
+    margin: 7px;
+}
+
+.nameProf{
+    vertical-align: middle;
+    color: white;
+}
+
+.headerClass{
+    background-color: #4c5eab;
+}
+
+.headerClass a:link{
+    color: white;
+}
+
+.headerClass a:visited{
+    color: whitesmoke;
+}
+
+.headerClass li{
+    color: white;
+}
